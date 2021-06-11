@@ -84,7 +84,7 @@
                     <!-- <a class="social nav-link" title="Telefone" href="tel:+551137430781&tel:+551137437304" target="_blank">
                         <i class="fas fa-phone"></i>
                     </a> -->
-                    <a role="button" class="btn popovers social nav-link" data-toggle="popover" title="Telefones" data-content="<a href='tel:+551137430781' title='Telefone'>(11) 3743-0781</a><br><a href='tel:+551137437304' title='Telefone'>(11) 3743-7304</a>" data-original-title="Telefones">
+                    <a role="button" class="btn popovers social nav-link" data-toggle="popover" title="Telefones" data-content="<a href='tel:+551137430781' title='Telefone'>(11) 3743-0781</a><br><a href='tel:+551137437304' title='Telefone'>(11) 3743-7304</a>" data-original-title="Telefones" data-placement="bottom">
                         <i class="fas fa-phone"></i>
                     </a>
                 </li>
