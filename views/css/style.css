@@ -1,0 +1,152 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rubik', sans-serif;
+}
+
+.titulo {
+  text-shadow: 2px 3px 1px rgb(156, 152, 152);
+  font-weight: 900;
+  font-size: 2rem;
+  padding: 20px;
+  text-transform: uppercase;
+  /* color: #dc3545; */
+}
+
+.titulo:first-letter{
+  text-decoration: underline  #dc3545;
+}
+
+.navbar{
+  background-color: #000;
+}
+
+.social{
+  color: rgba(255,255,255,.5);;
+}
+
+.social:hover{
+  color: #fff;
+}
+
+section {
+	padding-top: 5rem;
+}
+
+.jumbotron {
+  background-image: url('../img/background1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.recuo {
+  text-indent:4em;
+}
+
+#modalidades img{
+  width: 50px;
+  height: 50px;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: rgba(225,83,97,0.4);
+}
+
+/* #novidades img{
+	width: 200px;
+  height: 350px;
+} */
+
+.scrollTop:hover{
+  background: rgba(225,83,97,0.9);
+}
+
+.scrollTop{
+  text-decoration: none;
+  background: rgba(225,83,97,0.2);
+  bottom: 30px;
+  right: 30px;
+  color: #fff;
+  cursor: pointer;
+  padding: 5px;
+  position: fixed;
+  opacity: 0.8;
+}
+
+#novidades .container {
+  height: 100%;
+}
+
+.box{
+  /* width: 400px;
+  height: 400px; */
+  text-align: center;
+  /* cursor: pointer; */
+  padding: 0;
+  border: darkgrey solid 1px;
+  border-radius: 5px;
+}
+
+.fit{
+  cursor: pointer;
+}
+
+.box img{
+  height: 40%;
+}
+
+.box h4{
+  padding: 10px 0;
+}
+
+.box h4 span{
+  font-weight: bold;
+  text-decoration: underline;
+  color: #dc3545;
+}
+
+.box p span{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.box p span a{
+  color:  #dc3545;
+  cursor: pointer;
+}
+
+.modal img{
+  width: 90%;
+  margin: 10px;
+  height: 90%;
+}
+
+.modal-body{
+  height: 100%;
+  width: 100%;
+}
+
+.modal-content{
+  height: 100%;
+  width: 100%;
+}
+
+.modal-dialog{
+  /* min-height: 80vh; */
+  min-width: 50vw;
+}
+
+.modal .btn{
+  width: 20%;
+}
+
+@media only screen and (max-width: 992px) {
+  .modal .btn{
+    width: 35%;
+    font-size: 0.8rem;
+  }
+}

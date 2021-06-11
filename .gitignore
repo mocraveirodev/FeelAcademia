@@ -1,0 +1,7 @@
+/ssl
+/.well-known
+composer.json
+composer.lock
+/vendor
+/models/Conexao.php
+BD.txt
