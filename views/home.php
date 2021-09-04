@@ -81,9 +81,6 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <!-- <a class="social nav-link" title="Telefone" href="tel:+551137430781&tel:+551137437304" target="_blank">
-                        <i class="fas fa-phone"></i>
-                    </a> -->
                     <a role="button" class="btn popovers social nav-link" data-toggle="popover" title="Telefones" data-content="<a href='tel:+551137430781' title='Telefone'>(11) 3743-0781</a><br><a href='tel:+551137437304' title='Telefone'>(11) 3743-7304</a>" data-original-title="Telefones" data-placement="bottom">
                         <i class="fas fa-phone"></i>
                     </a>
@@ -122,76 +119,163 @@
 
             <div class="container-fluid text-center">
                 <div class="row">
-                    <div class="col p-3">
+                    <div class="col-4 col-sm p-3">
                         <a class="text-danger" onclick="" data-toggle="collapse" href="#fitdance" role="button"
                             aria-expanded="false" aria-controls="collapseExample">
                             <img class="img-fluid" src="views/img/Dance.png" alt="Dança">
                             <p class="m-0">FitDance</p>
                         </a>
                     </div>
-                    <div class="col p-3">
+                    <div class="col-4 col-sm p-3">
                         <a class="text-danger" onclick="" data-toggle="collapse" href="#pilates" role="button"
                             aria-expanded="false" aria-controls="collapseExample">
                             <img class="img-fluid" src="views/img/Feel Pilates.png" alt="Pilates">
-                            <p class="m-0">Pilates</p>
+                            <p class="m-0">Pilates Solo</p>
                         </a>
                     </div>
-                    <div class="col p-3">
+                    <div class="col-4 col-sm p-3">
                         <a class="text-danger" onclick="" data-toggle="collapse" href="#funcional" role="button"
                             aria-expanded="false" aria-controls="collapseExample">
                             <img class="img-fluid" src="views/img/Funcional.png" alt="Funcional">
-                            <p class="m-0">Funcional Feel</p>
+                            <p class="m-0">Funcional / Pump</p>
                         </a>
                     </div>
-                    <div class="col p-3">
+                    <!-- <div class="col-4 col-sm p-3">
                         <a class="text-danger" onclick="" data-toggle="collapse" href="#step" role="button"
                             aria-expanded="false" aria-controls="collapseExample">
                             <img class="img-fluid" src="views/img/Step.png" alt="Step">
                             <p class="m-0">Step Feel</p>
                         </a>
-                    </div>
-                    <div class="col p-3">
+                    </div> -->
+                    <!-- <div class="col-4 col-sm p-3">
                         <a class="text-danger" onclick="" data-toggle="collapse" href="#alongamento" role="button"
                             aria-expanded="false" aria-controls="collapseExample">
                             <img class="img-fluid" src="views/img/along.png" alt="Alongamento">
                             <p class="m-0">Alongamento</p>
                         </a>
-                    </div>
-                    <div class="col p-3">
+                    </div> -->
+                    <div class="col-4 col-sm p-3">
                         <a class="text-danger" onclick="" data-toggle="collapse" href="#bikefeel" role="button"
                             aria-expanded="false" aria-controls="collapseExample">
                             <img class="img-fluid" src="views/img/bike feel.png" alt="Bike">
-                            <p class="m-0">Bike Feel</p>
+                            <p class="m-0">Bike HIIT</p>
                         </a>
                     </div>
-                    <div class="col p-3">
+                    <div class="col-4 col-sm p-3">
                         <a class="text-danger" onclick="" data-toggle="collapse" href="#crossfeel" role="button"
                             aria-expanded="false" aria-controls="collapseExample">
                             <img class="img-fluid" src="views/img/cross feel.png" alt="Cross Feel">
                             <p class="m-0">Cross Feel</p>
                         </a>
                     </div>
-                    <div class="col p-3">
+                    <!-- <div class="col-4 col-sm p-3">
+                        <a class="text-danger" onclick="" data-toggle="collapse" href="#maxstrong" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            <img class="img-fluid" src="views/img/max strong.png" alt="Pump">
+                            <p class="m-0">Pump</p>
+                        </a>
+                    </div> -->
+                    <!-- <div class="col-4 col-sm p-3">
                         <a class="text-danger" onclick="" data-toggle="collapse" href="#ventre" role="button"
                             aria-expanded="false" aria-controls="collapseExample">
                             <img class="img-fluid" src="views/img/dança do ventre.png" alt="Dança do Ventre">
                             <p class="m-0">Dança do Ventre</p>
                         </a>
-                    </div>
-                    <div class="col p-3">
+                    </div> -->
+                    <!-- <div class="col-4 col-sm p-3">
+                        <a class="text-danger" onclick="" data-toggle="collapse" href="#jump" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            <img class="img-fluid" src="views/img/jump.png" alt="Jump Feel">
+                            <p class="m-0">Jump Feel</p>
+                        </a>
+                    </div> -->
+                    <div class="col-4 col-sm p-3">
                         <a class="text-danger" onclick="" data-toggle="collapse" href="#feelcore" role="button"
                             aria-expanded="false" aria-controls="collapseExample">
                             <img class="img-fluid" src="views/img/feel core.png" alt="Feel Core">
                             <p class="m-0">Feel Core</p>
                         </a>
                     </div>
-                    <div class="col p-3">
+                    <!-- <div class="col-4 col-sm p-3">
                         <a class="text-danger" onclick="" data-toggle="collapse" href="#fitball" role="button"
                             aria-expanded="false" aria-controls="collapseExample">
                             <img class="img-fluid" src="views/img/fit ball.png" alt="Fit Ball">
                             <p class="m-0">Fit Ball</p>
                         </a>
+                    </div> -->
+                </div>
+
+                <div class="row">
+                    <div class="col-4 col-sm p-3">
+                        <a class="text-danger" onclick="" data-toggle="collapse" href="#hidroginastica" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            <img class="img-fluid" src="views/img/hidro.png" alt="Hidroginástica">
+                            <p class="m-0">Hidroginástica</p>
+                        </a>
                     </div>
+                    <!-- <div class="col-4 col-sm p-3">
+                        <a class="text-danger" onclick="" data-toggle="collapse" href="#hiit" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            <img class="img-fluid" src="views/img/hiit.png" alt="HIIT">
+                            <p class="m-0">HIIT</p>
+                        </a>
+                    </div> -->
+                    <div class="col-4 col-sm p-3">
+                        <a class="text-danger" onclick="" data-toggle="collapse" href="#jiujitsu" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            <img class="img-fluid" src="views/img/jiu jitsu.png" alt="Jiu Jitsu">
+                            <p class="m-0">Jiu Jitsu</p>
+                        </a>
+                    </div>
+                    <div class="col-4 col-sm p-3">
+                        <a class="text-danger" onclick="" data-toggle="collapse" href="#funcionalkids" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            <img class="img-fluid" src="views/img/Step.png" alt="funcionalkids">
+                            <p class="m-0">Funcional Kids</p>
+                        </a>
+                    </div>
+                    <div class="col-4 col-sm p-3">
+                        <a class="text-danger" onclick="" data-toggle="collapse" href="#jump" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            <img class="img-fluid" src="views/img/jump.png" alt="Jump Feel">
+                            <p class="m-0">Jump Feel</p>
+                        </a>
+                    </div>
+                    <!-- <div class="col-4 col-sm p-3">
+                        <a class="text-danger" onclick="" data-toggle="collapse" href="#maxstrong" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            <img class="img-fluid" src="views/img/max strong.png" alt="Max Strong">
+                            <p class="m-0">Max Strong</p>
+                        </a>
+                    </div> -->
+                    <div class="col-4 col-sm p-3">
+                        <a class="text-danger" onclick="" data-toggle="collapse" href="#natacao" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            <img class="img-fluid" src="views/img/natação.png" alt="Natação">
+                            <p class="m-0">Natação</p>
+                        </a>
+                    </div>
+                    <div class="col-4 col-sm p-3">
+                        <a class="text-danger" onclick="" data-toggle="collapse" href="#spinning" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            <img class="img-fluid" src="views/img/spinning.png" alt="Spinning">
+                            <p class="m-0">Spinning</p>
+                        </a>
+                    </div>
+                    <!-- <div class="col-4 col-sm p-3">
+                        <a class="text-danger" onclick="" data-toggle="collapse" href="#sprints" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            <img class="img-fluid" src="views/img/sprints.png" alt="Sprints">
+                            <p class="m-0">Sprints</p>
+                        </a>
+                    </div> -->
+                    <!-- <div class="col-4 col-sm p-3">
+                        <a class="text-danger" onclick="" data-toggle="collapse" href="#workout" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            <img class="img-fluid" src="views/img/workout.png" alt="Workout">
+                            <p class="m-0">Workout</p>
+                        </a>
+                    </div> -->
                 </div>
                 <div class="collapse" id="fitdance">
                     <div class="alert alert-danger d-none d-sm-block mb-4">
@@ -210,15 +294,29 @@
                         Usa padrões fundamentais do movimento humano como agachar, levantar, avançar, puxar, empurrar,
                         girar, dentre outras visando sempre o equilíbrio das estruturas musculares e envolvendo o corpo
                         como um todo.
+                        Usando barras e anilhas, esta aula faz com que você trabalhe todos os seus grupos musculares
+                        adquirindo força, resistência e definição corporal, de quebra chega a queimar 500 calorias
+                        ao som de músicas eletrizantes.
                     </div>
                 </div>
-                <div class="collapse" id="step">
+                <div class="collapse" id="funcionalkids">
+                    <div class="alert alert-danger d-none d-sm-block mb-4">
+                        Na FEEL ACADEMIA os pequenos também tem vez! 
+
+                        Nós sabemos que na infância a criança precisa dos mais variados estímulos físicos e sociais, e toda bagagem adquirida nessa fase é fundamental para o crescimento e desenvolvimento até a fase adulta.
+
+                        Pensando nisso, criamos o Treinamento Funcional Feel Kids: uma aula que trás jogos, gincanas, brincadeiras e circuitos especialmente desenvolvidos para que nossas crianças trabalhem todas habilidades motoras. 
+
+                        Vamos criar crianças ativas!
+                    </div>
+                </div>
+                <!-- <div class="collapse" id="step">
                     <div class="alert alert-danger d-none d-sm-block mb-4">
                         Usa-se uma plataforma como base para que com movimentos contínuos de subida, descida e
                         deslocamentos laterais desenvolva a coordenação motora queimando muitas calorias. Um excelente
                         trabalho cardiovascular e de membros inferiores.
                     </div>
-                </div>
+                </div> -->
                 <div class="collapse" id="alongamento">
                     <div class="alert alert-danger d-none d-sm-block mb-4">
                         É uma aula para ganhar flexibilidade, prevenir lesões, melhorar a postura, ideal para ser feita
@@ -258,72 +356,6 @@
                         abdominal.
                     </div>
                 </div>
-
-                <div class="row">
-                    <div class="col p-3">
-                        <a class="text-danger" onclick="" data-toggle="collapse" href="#hidroginastica" role="button"
-                            aria-expanded="false" aria-controls="collapseExample">
-                            <img class="img-fluid" src="views/img/hidro.png" alt="Hidroginástica">
-                            <p class="m-0">Hidroginástica</p>
-                        </a>
-                    </div>
-                    <div class="col p-3">
-                        <a class="text-danger" onclick="" data-toggle="collapse" href="#hiit" role="button"
-                            aria-expanded="false" aria-controls="collapseExample">
-                            <img class="img-fluid" src="views/img/hiit.png" alt="HIIT">
-                            <p class="m-0">HIIT</p>
-                        </a>
-                    </div>
-                    <div class="col p-3">
-                        <a class="text-danger" onclick="" data-toggle="collapse" href="#jiujitsu" role="button"
-                            aria-expanded="false" aria-controls="collapseExample">
-                            <img class="img-fluid" src="views/img/jiu jitsu.png" alt="Jiu Jitsu">
-                            <p class="m-0">Jiu Jitsu</p>
-                        </a>
-                    </div>
-                    <div class="col p-3">
-                        <a class="text-danger" onclick="" data-toggle="collapse" href="#jump" role="button"
-                            aria-expanded="false" aria-controls="collapseExample">
-                            <img class="img-fluid" src="views/img/jump.png" alt="Jump Feel">
-                            <p class="m-0">Jump Feel</p>
-                        </a>
-                    </div>
-                    <div class="col p-3">
-                        <a class="text-danger" onclick="" data-toggle="collapse" href="#maxstrong" role="button"
-                            aria-expanded="false" aria-controls="collapseExample">
-                            <img class="img-fluid" src="views/img/max strong.png" alt="Max Strong">
-                            <p class="m-0">Max Strong</p>
-                        </a>
-                    </div>
-                    <div class="col p-3">
-                        <a class="text-danger" onclick="" data-toggle="collapse" href="#natacao" role="button"
-                            aria-expanded="false" aria-controls="collapseExample">
-                            <img class="img-fluid" src="views/img/natação.png" alt="Natação">
-                            <p class="m-0">Natação</p>
-                        </a>
-                    </div>
-                    <div class="col p-3">
-                        <a class="text-danger" onclick="" data-toggle="collapse" href="#spinning" role="button"
-                            aria-expanded="false" aria-controls="collapseExample">
-                            <img class="img-fluid" src="views/img/spinning.png" alt="Spinning">
-                            <p class="m-0">Spinning</p>
-                        </a>
-                    </div>
-                    <div class="col p-3">
-                        <a class="text-danger" onclick="" data-toggle="collapse" href="#sprints" role="button"
-                            aria-expanded="false" aria-controls="collapseExample">
-                            <img class="img-fluid" src="views/img/sprints.png" alt="Sprints">
-                            <p class="m-0">Sprints</p>
-                        </a>
-                    </div>
-                    <div class="col p-3">
-                        <a class="text-danger" onclick="" data-toggle="collapse" href="#workout" role="button"
-                            aria-expanded="false" aria-controls="collapseExample">
-                            <img class="img-fluid" src="views/img/workout.png" alt="Workout">
-                            <p class="m-0">Workout</p>
-                        </a>
-                    </div>
-                </div>
                 <div class="collapse" id="hidroginastica">
                     <div class="alert alert-danger d-none d-sm-block mb-4">
                         Exercício físico aeróbico que ocorre dentro da piscina e com a ajuda de alguns equipamentos de
@@ -347,6 +379,13 @@
                         Usa um mini-trampolim elástico realizando movimentos com os braços, pernas e saltos que
                         fazem toda a diferença ao rítmo de músicas contagiantes, chegando a perder 700 calorias por
                         aula.
+                    </div>
+                </div>
+                <div class="collapse" id="pump">
+                    <div class="alert alert-danger d-none d-sm-block mb-4">
+                        Usando barras e anilhas, esta aula faz com que você trabalhe todos os seus grupos musculares
+                        adquirindo força, resistência e definição corporal, de quebra chega a queimar 500 calorias
+                        ao som de músicas eletrizantes.
                     </div>
                 </div>
                 <div class="collapse" id="maxstrong">
@@ -683,13 +722,21 @@
         <p class="lead text-center pb-5 mb-5">Fique ligado que em breve teremos novidades!</p>
 
         <div class="container mt-4">
-            <div class="row justify-content-center align-items-baseline">
+            <div class="row justify-content-center align-items-start">
                 <div class="col-lg-4 box">
                     <img class="card-img-top" src="views/img/treinoemcasa.jpeg" alt="Treino em casa">
                     <div class="card-body mt-2">
                         <h4>Treine em casa com a <span>Feel</span></h4>
                         <p class="lead mt-3">Nessa Quarentena não deixe de <span>TREINAR</span>, acesse nosso canal no <span><a class="" title="youtube" href="https://www.youtube.com/channel/UCTV0DzcciwsybfO0lYW1ieA" target="_blank">YouTube</a></span> e venha suar com a gente!!</p>
                         <a class="btn btn-danger" title="youtube" href="https://www.youtube.com/channel/UCTV0DzcciwsybfO0lYW1ieA" target="_blank">Treine Online</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 box">
+                    <img class="card-img-top" src="views/img/funckids2.jpeg" alt="Funcional Feel Kids">
+                    <div class="card-body mt-2">
+                        <h4>Funcional <span>Feel</span> Kids</h4>
+                        <p class="lead mt-3">Jogos, gincanas, brincadeiras e circuitos <span>especialmente desenvolvidos</span> para crianças.</p>
+                        <a class="btn btn-danger" title="whatsapp" href="https://api.whatsapp.com/send?phone=5511945244861&text=Olá, Quero informações sobre o Funcional Kids!" target="_blank">Saiba mais</a>
                     </div>
                 </div>
             </div>
@@ -734,18 +781,18 @@
             <p class="text-center pb-3 m-0">&reg; Todos os direitos reservados - 1999</p>
         </footer>
     </div>
-    <!-- <div class="modal fade" id="modalInfo" tabindex="-1" role="dialog" aria-labelledby="modalInfoTitle"
+    <div class="modal fade" id="modalInfo" tabindex="-1" role="dialog" aria-labelledby="modalInfoTitle"
         aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-body text-center">
-                    <img src="views/img/feeldevolta.png" alt="Retorno às atividades Feel Academia">
+                    <img src="views/img/funckids1.jpeg" alt="Funcional Kids">
                     <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
-                    <a class="btn btn-success" title="youtube" href="https://api.whatsapp.com/send?phone=5511945244861&text=Olá, Quero informações aobre o fechamento!" target="_blank">WhatsApp</a>
+                    <a class="btn btn-success" title="whatsapp" href="https://api.whatsapp.com/send?phone=5511945244861&text=Olá, Quero informações sobre o Funcional Kids!" target="_blank">WhatsApp</a>
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
 
     <!-- SCRIPT BOOTSTRAP -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
